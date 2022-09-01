@@ -2,7 +2,7 @@
 
 Hey all, thank you for interested in running a fullnode on AIT3! Please follow the instructions to:
 
-1. Setup you fullnode following the [same instruction](https://aptos.dev/nodes/full-node/fullnode-for-devnet) as running fullnode on devnet, use the `testnet` branch and `testnet` docker image tag instead of the devnet one. 
+1. Setup your fullnode following the [same instruction](https://aptos.dev/nodes/full-node/fullnode-for-devnet) as running fullnode on devnet, use the `testnet` branch and `testnet` docker image tag instead of the devnet one. 
 2. Replace the genesis.blob and waypoint from the above instruction to the files hosted in this repo.
 3. Make sure you start your fullnode with static identity. See instruction [here](https://aptos.dev/nodes/full-node/network-identity-fullnode)
 
